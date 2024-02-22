@@ -1,4 +1,4 @@
-# Environment/Background Sound Classification in Speech Signals
+# Environment/Background Sound Classification in Speech Signals (Publication)
 
 <a href="https://pubs.aip.org/asa/jasa/article/151/4/2773/2838550/Lightweight-deep-convolutional-neural-network-for" style="text-decoration: underline;">Light Weight Deep CNN for Background Sound Classification in Speech Signals</a> (The Journal of the Acoustical Society of America - April, 2022)
 
