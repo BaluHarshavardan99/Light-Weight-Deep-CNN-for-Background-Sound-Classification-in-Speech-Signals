@@ -1,4 +1,4 @@
-# [Light-Weight-Deep-CNN-for-Background-Sound-Classification-in-Speech-Signals](https://pubs.aip.org/asa/jasa/article/151/4/2773/2838550/Lightweight-deep-convolutional-neural-network-for)
+# [Light-Weight-Deep-CNN-for-Background-Sound-Classification-in-Speech-Signals](https://pubs.aip.org/asa/jasa/article/151/4/2773/2838550/Lightweight-deep-convolutional-neural-network-for) (The Journal of the Acoustical Society of America - April, 2022)
 
 **Abstract:**
 
